@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="FPublisher" Version="0.1.4-build.161" />
+    <PackageReference Include="Fake.DotNet.Cli" Version="5.12.0" />
   </ItemGroup>
 
 </Project>
